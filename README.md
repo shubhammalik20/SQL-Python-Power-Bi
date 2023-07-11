@@ -11,4 +11,8 @@
 - Different Pandas dataframe and Numpy functions.
 - Analysis using different Plots.
 
-  
+
+
+
+  ![HR Analytics Dashboard](https://github.com/shubhammalik20/SQL-Python-Power-Bi/assets/135993334/443675b1-3dbf-48f3-8f94-c3e94e70cb23)
+
