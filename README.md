@@ -1,4 +1,5 @@
 # SQL-Python-Power-Bi
+### Explore the synergy of SQL, Python, and Power BI in this project! Leveraging data manipulation with SQL, dynamic scripting with Python, and compelling visualizations with Power BI, this project showcases a harmonious integration of these technologies. Discover how data transforms into insights through this collaborative endeavor. 
 
 ## Takeaway from the project
 
